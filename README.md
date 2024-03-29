@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prabakaranc98 Prabakaran Chandran, working as a Data Scientist  with 5 years of Industry Experience
+- 👋 Hi, I’m @prabakaranc98 Prabakaran Chandran, working as a Senior ML Engineer  with 5 years of Industry Experience
 - I have experience across Data Science + Engineering the solutions at Scale
 - 👀 I’m interested in Solving problems using Data/ AI / ML for various industries 
 - 🌱 I’m currently exploring and practicing LLMs and GenAI
