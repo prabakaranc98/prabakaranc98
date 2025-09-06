@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/prabakaranc98/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=prabakaranc98)
 
 - at grad school right now , NYC
 - on Experiements around LLMS, AI, ML, Data Science
