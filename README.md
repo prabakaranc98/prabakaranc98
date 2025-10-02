@@ -7,8 +7,7 @@
 
 🎓 **Grad Student @ Columbia University, NYC, US**  
 🤖 Experiments: LLMs, AI, ML, Data Science  
-💡 Building product signals & innovation in *agentic AI* era  
-🚀 Love creating, launching, iterating!
+🚀 Focusing on Math and Science for Inference, Evidence, Foresight, Intelligence and Decisions - which is Decision Science and Engineering.
 
 - Current (fall'25) - Personal Project Areas :
     - Generative Social Intelligence (WIP)
