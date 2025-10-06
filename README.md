@@ -6,14 +6,8 @@
 ---
 
 🎓 **Grad Student @ Columbia University, NYC, US**  
-🤖 Experiments: LLMs, AI, ML, Data Science  
-🚀 Focusing on Math and Science for Inference, Evidence, Foresight, Intelligence and Decisions - which is Decision Science and Engineering.
+🤖 Research and Engineering : Modern Deep Learning and AI
 
-- Current (fall'25) - Personal Project Areas :
-    - Generative Social Intelligence (WIP)
-    - Probabilistic ML (To Be Started)
-    - RL/Bandits (To Be Started)
-      
 - Research Collab:
     - system dynamics and ML with CRIS LAB at Columbia
     - and few other occasional experiments.
