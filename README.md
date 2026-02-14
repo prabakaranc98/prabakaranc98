@@ -8,10 +8,3 @@
 🎓 **Grad Student @ Columbia University, NYC, US**  
 🤖 Research and Engineering : Modern Deep Learning and AI
 
-- Research Collab:
-    - system dynamics and ML with CRIS LAB at Columbia
-    - and few other occasional experiments.
-
-100th Day : 31st December 2025.
-
-PS : pretty late to the Open-source building :)
