@@ -17,6 +17,25 @@ Learning > knowing. Fundamentals are earned through execution.
 
 ---
 
+## Research Projects
+
+Selected projects from research sprints — each one a concrete implementation targeting a specific hypothesis.
+
+| Project | Description |
+|---|---|
+| [causal-continual](https://github.com/prabakaranc98/causal-continual) | Causal representation learning meets continual learning — probing whether causal structure helps mitigate forgetting |
+| [pmml](https://github.com/prabakaranc98/pmml) | Probabilistic & predictive machine learning experiments — Bayesian inference, uncertainty quantification, and generative models |
+| [zsc-marl](https://github.com/prabakaranc98/zsc-marl) | Zero-shot coordination in multi-agent reinforcement learning — emergent communication and cooperative alignment |
+| [MATS-Exp1](https://github.com/prabakaranc98/MATS-Exp1) | Mechanistic interpretability and causal social agents — first in the nthExperiment lineage |
+| [interp-exp1-socialagents](https://github.com/prabakaranc98/interp-exp1-socialagents) | LLM interpretability applied to generative social agent architectures |
+| [exp1-continous-learning](https://github.com/prabakaranc98/exp1-continous-learning) | Continual learning experiments — catastrophic forgetting, replay, and architectural interventions |
+| [causality360](https://github.com/prabakaranc98/causality360) | End-to-end causal inference — SCMs, do-calculus, and experimental validation |
+| [kahnemanlab](https://github.com/prabakaranc98/kahnemanlab) | Empirical AI agent benchmarks grounded in cognitive science tasks |
+| [67systems](https://github.com/prabakaranc98/67systems) | Deep learning on linear, non-linear, and chaotic dynamical systems |
+| [worldmodels](https://github.com/prabakaranc98/worldmodels) | Architecture-level experiments on world model representations and memory |
+
+---
+
 ## Personal Initiatives
 
 Programs I run independently. Each one reflects a different way I think about how to learn, build, and contribute.
