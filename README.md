@@ -17,6 +17,23 @@ I work at the intersection of ML science and AI engineering — building systems
 
 ---
 
+## Personal Initiatives
+
+Longer-running programs I run independently — research labs, learning series, tooling, and publishing.
+
+| Initiative | What It Is | Tag |
+|---|---|---|
+| [how-to-do-ai-research-2026](https://github.com/prabakaranc98/how-to-do-ai-research-2026) | Open living lab on how to conduct serious AI/ML research — research sprints, methodology, craft, and published artifacts | 🔬 Research Craft |
+| [Thursday Learning Hours](https://github.com/prabakaranc98/Thursday-Learning-Hours) | Self-run weekly seminar / tutorial / demo series on foundations, frontiers & frameworks in AI/ML/DS | 📚 Learning Series |
+| [nthExperiment](https://github.com/prabakaranc98/MATS-Exp1) | A lineage of focused research sprints — each exp targets one hypothesis end-to-end across interpretability, agents, continual learning, causal AI, and world models | 🧪 Experiment Series |
+| [BroCoDDE](https://github.com/prabakaranc98/broCoDDE) | Personal knowledge engine — Feynman-technique micro-learning, Socratic deep dives, and a compounding concept graph | 🧠 Knowledge Engine |
+| [Cognitive ETL](https://github.com/prabakaranc98/cognitive-ETL) | Second-brain pipeline — extract → transform → load from books, papers, and ideas into a living knowledge graph and public storefront | 🗂️ Knowledge Infra |
+| [Applied AI 2026](https://github.com/prabakaranc98/applied-ai-2026) | Problem-first course / compendium on applied AI — from problem framing to solution engineering and deployment | 🎓 Applied Course |
+| [AI First Editorial](https://github.com/prabakaranc98/ai-first-editorial) | AI-first editorial — stories, insights, and synthesis on AI research, engineering, and practice | ✍️ Writing |
+| FAIRE | _private / in progress_ | 🔒 |
+
+---
+
 ## What I'm Working On
 
 | Project | Description |
