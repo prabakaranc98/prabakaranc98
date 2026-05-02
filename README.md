@@ -67,7 +67,11 @@ Writing as thinking. Stories, synthesis, and analysis on AI research, engineerin
 
 ---
 
-**FAIRE** — *private / in progress*
+**[FAIRE](https://github.com/prabakaranc98/FAIRE)** — *Frontiers in AI Research and Engineering*
+
+Sprint-based research program at the edge of what's understood in AI. Each sprint starts with a precisely defined question and ends with a concrete result — working code, a finding, or a documented wall. Problem spaces: LLMs, mechanistic interpretability, diffusions & flows, world models, continual learning, causal representation learning, post-training & alignment, systems, and foundation model science.
+
+Four objectives every sprint must serve: **Discovery · Evidence · Inference · Optimization**. Not sequential stages — a loop. The constraint is clarity, not novelty. The goal is to know something real by the end.
 
 ---
 
