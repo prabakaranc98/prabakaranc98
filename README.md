@@ -12,9 +12,8 @@
 
 I work at the intersection of ML science and AI engineering — building systems, running experiments, and exploring ideas that sit at the frontier of what machines can learn and reason about.
 
-- 🔬 Research interests: **Causal Inference · Probabilistic Models · Continual Learning · Representation Learning · Reinforcement Learning**
+- 🔬 Research interests: **LLMS/GenAI, Causal Inference · Probabilistic Models · Continual Learning · Representation Learning · Reinforcement Learning**
 - 🧠 Broader curiosity: **Complexity Science · Cognitive Science · World Models · AI Interpretability**
-- 📖 Learning approach: one paper, one experiment, one system at a time
 
 ---
 
