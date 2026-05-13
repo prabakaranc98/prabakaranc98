@@ -11,7 +11,7 @@ I don't build demos. I run experiments. I don't collect papers. I attack hypothe
 The work compounds: every sprint sharpens the next question. Every failure is evidence. Everything is public.
 
 What drives me: understanding *how machines actually learn and reason*, not just getting them to output something plausible.
-My territory sits at the intersection of **world models, causal inference, interpretability, continual learning, and cognitive science** — areas where the interesting science and the hard engineering are the same problem.
+My territory sits at the intersection of **language models, generative models, world models,agentic models, causal inference, interpretability, continual learning, and cognitive science** — areas where the interesting science and the hard engineering are the same problem.
 
 Learning > knowing. Fundamentals are earned through execution.
 
